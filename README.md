@@ -14,9 +14,16 @@
         <img align="left" alt="Delve thumbnail" width="100px" src="https://github.com/charis/resources/blob/main/images/profile/delve.gif"/>
     </a>&nbsp;
     <a href="https://github.com/charis/Delve">Delve</a><br>
-    <h4>&nbsp;<i>Java GUI application designed to analyze hundreds of snapshots during the software development process</i></h4>
+    <h4>&nbsp;&nbsp;<i>Java GUI application designed to analyze hundreds of snapshots during the software development process</i></h4>
 </h3>
 
+<h3>
+    <a href="https://github.com/charis/ImageToText">
+        <img align="left" alt="Image-to-Text thumbnail" width="100px" src="https://github.com/charis/resources/blob/main/images/profile/image-to-text.gif"/>
+    </a>&nbsp;
+    <a href="https://github.com/charis/ImageToText">Image-to-Text</a><br>
+    <h4>&nbsp;&nbsp;<i>Java GUI application designed to extract the text from images (OCR).</i></h4>
+</h3>
 
 <br>
 <h4>
