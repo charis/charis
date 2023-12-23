@@ -16,7 +16,7 @@
     <a href="https://github.com/charis/Delve">Delve</a><br>
     <h4>&nbsp;&nbsp;<i>Java GUI application designed to analyze hundreds of snapshots during the software development process</i></h4>
 </h3>
-
+<br>
 <h3>
     <a href="https://github.com/charis/ImageToText">
         <img align="left" alt="Image-to-Text thumbnail" width="100px" src="https://github.com/charis/resources/blob/main/images/profile/image-to-text.gif"/>
