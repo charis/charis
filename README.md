@@ -22,7 +22,7 @@
         <img align="left" alt="Image-to-Text thumbnail" width="100px" src="https://github.com/charis/resources/blob/main/images/profile/image-to-text.gif"/>
     </a>&nbsp;
     <a href="https://github.com/charis/ImageToText">Image-to-Text</a><br>
-    <h4>&nbsp;&nbsp;<i>Java GUI application designed to extract the text from images (OCR).</i></h4>
+    <h4>&nbsp;&nbsp;<i>Java GUI application designed to extract the text from images (OCR)</i></h4>
 </h3>
 <br>
 <h3>
