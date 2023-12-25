@@ -24,6 +24,7 @@
     <a href="https://github.com/charis/ImageToText">Image-to-Text</a><br>
     <h4>&nbsp;&nbsp;<i>Java GUI application designed to extract the text from images (OCR).</i></h4>
 </h3>
+<br>
 <h3>
     <a href="https://github.com/charis/CodeBuddy">
         <img align="left" alt="CodeBuddy thumbnail" width="120px" src="https://github.com/charis/resources/blob/main/images/profile/codebuddy.gif"/>
