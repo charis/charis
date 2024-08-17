@@ -35,7 +35,8 @@
 <br>
 <h3>
     <a href="https://github.com/charis/Crowdfunding-Smart-Contract">
-        <img align="left" alt="Crowdfunding thumbnail" width="100px" src="https://github.com/charis/resources/blob/main/images/profile/crowdfunding.png"/>
+        <img align="left" alt="Image-to-Text thumbnail" width="100px" src="https://github.com/charis/resources/blob/main/images/profile/crowdfunding-smart-contract.gif"/>
+        <!-- img align="left" alt="Crowdfunding thumbnail" width="100px" src="https://github.com/charis/resources/blob/main/images/profile/crowdfunding.png"/ -->
     </a>&nbsp;
     <a href="https://github.com/charis/Crowdfunding-Smart-Contract">Crowdfunding Smart Contract</a><br>
     <h4>&nbsp;&nbsp;<i>Smart contract in Clarity for crowdfunding a campaign</i></h4>
